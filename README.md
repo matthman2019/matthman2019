@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matthman2019
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on projects with my cousins I think because his dad is a ####ing genius
+- 👀 I’m interested in improving my coding skills
+- 🌱 I’m currently learning HTML, Javascript, CSS, C#, Python, and Luau (but not all at the same time)
+- 💞️ I’m looking to develop projects with other people, since I am an independent developer right now
 - 📫 How to reach me ... you don't.
 
 <!---
