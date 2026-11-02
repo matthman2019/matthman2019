@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @matthman2019
-- 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently doing schoolwork
-- 💞️ I’m interested in summer break (very very interested)
-- 📫 How to reach me ... you don't.
+Hi! I'm matthman2019.
+
+As of 2026 I am a senior.
+My repositories are below, feel free to check them out!
 
 <!---
 matthman2019/matthman2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
